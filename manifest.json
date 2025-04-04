@@ -1,0 +1,19 @@
+{
+    "name": "Chroma Challenge",
+    "description": "A fast-paced color switch game for KaiOS",
+    "launch_path": "https://cdn-factory.marketjs.com/en/chroma-challenge/index.html",
+    "icons": {
+        "60": "/icons/icon60.png",
+        "120": "/icons/icon120.png"
+    },
+    "developer": {
+        "name": "Muhammad Umar",
+        "url": "https://github.com/LethalMango420"
+    },
+    "default_locale": "en",
+    "type": "privileged",
+    "fullscreen": true,
+    "orientation": "portrait",
+    "permissions": {},
+    "chrome": { "navigation": false }
+}
